@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "fullname": "Ahmad Bustomi",
+    "email": {
+      "kantor": "ahmad.b@email.com"
+    },
+    "phone": {
+      "kantor": "0211234678"
+    },
+    "gmail": "aa@gmail.com"
+  },
+  {
+    "fullname": "Ahmad Bustomi",
+    "email": {
+      "kerja": "ahmad.kerja@email.com"
+    }
+  }
+]
