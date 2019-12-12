@@ -1,0 +1,32 @@
+[
+	{
+		"fullname": "Ahmad Bustomi",
+		"email": {
+			"kantor": "ahmad.b@email.com",
+			"personal": "ahmad.b@ahmadbustomi.com"
+		},
+		"phone": {
+			"hp": "082112300676",
+			"kantor": "0211234678",
+			"mobile": "081314735686"
+		},
+		"other_field": {
+			"id": "1"
+		}
+	},
+	{
+		"fullname": "Andry Mahdison",
+		"email": {
+			"bussiness": "devana.mahdison@gmail.com",
+			"office": "andry.mahdison@bizzy.co.id",
+			"personal": "andry.mahdison@gmail.com"
+		},
+		"phone": {
+			"hp": "085760775775"
+		},
+		"other_field": {
+			"facebook": "http://facebook.com/andrymahdison",
+			"linked": "http://linkedin.com/andrymahdison"
+		}
+	}
+]
